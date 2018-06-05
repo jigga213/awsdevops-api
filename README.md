@@ -20,5 +20,3 @@ $ docker-compose up -d
 ```
 
 And then you can navigate to `localhost:3002/explorer` to see the app.
-
- pull request: line 1
