@@ -20,3 +20,5 @@ $ docker-compose up -d
 ```
 
 And then you can navigate to `localhost:3002/explorer` to see the app.
+
+used for ssh demo
