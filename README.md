@@ -4,7 +4,7 @@
 
 2) Pull down the images
 
-3) Pull down this repo
+3) Pull down this repository
 
 4) Inside the repo run...
 
